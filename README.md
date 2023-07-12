@@ -20,6 +20,16 @@
 ![load_posts](assets/images/load_posts.png)
 
 ## 3. Social DB를 이용하여 데이터 가져오기
+1. `idknwhoru.near/widget/collegium.bos.wk3.SocialWidget` 위젯을 fork 해주세요.
+
+![search_social_widget](assets/images/search_social_widget.png)
+
+2. 내가 만든 위젯 목록을 확인해주세요.
+3. 아이콘, 위젯 제목, 작성자를 클릭해보세요.
+
+![my_widgets](assets/images/my_widgets.png)
+
+
 
 ## Mission
 나만의 프로필 페이지를 만들어주세요.
