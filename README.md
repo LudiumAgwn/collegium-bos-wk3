@@ -5,7 +5,7 @@
 ## 1. 온라인 에디터 환경 접속하기
 1. [nearpad 편집기](https://nearpad.dev/editor) 사이트에 접속해주세요.
 
-## 2. indexer를 이용하여 데이터 가져오기
+## 2. indexer를 이용하여 내 게시글 불러오기
 1. `idknwhoru.near/widget/collegium.bos.wk3.MyPosts` 위젯을 fork 해주세요.
 
 ![search_my_posts_widget](assets/images/search_my_posts_widget.png)
