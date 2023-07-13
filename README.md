@@ -51,3 +51,5 @@
 ![my_page](assets/images/my_page.png)
 
 #### [결과물 확인](https://near.org/idknwhoru.near/widget/collegium.bos.wk3.MyProfilePage)
+
+#### [결과물 소스 코드 확인](https://near.org/near/widget/ComponentDetailsPage?src=idknwhoru.near/widget/collegium.bos.wk3.MyProfilePage)
