@@ -32,8 +32,22 @@
 
 
 ## Mission
-나만의 프로필 페이지를 만들어주세요.
-- 요청 사항은 다음과 같습니다. 
-    - [ ] 2개의 탭이 `['post', 'widget']` 있습니다.
-    - [ ] post 탭을 누르면 내 계정으로 만든 post 목록을 표시합니다.
-    - [ ] widget 탭을 누름녀 내 계정으로 만든 widget 목록을 표시합니다.
+### 내 정보를 표시하는 페이지를 만들어주세요.
+#### 아래 컴포넌트로 화면을 구성해주세요.
+##### Profile
+- [ ] 아바타 이미지
+- [ ] Name
+- [ ] 지갑 계정
+##### Post
+- [ ] 포스팅 글 수
+- [ ] 포스팅 글
+##### Widget
+- [ ] 위젯 수
+- [ ] 위젯 이름
+- [ ] 위젯 이름을 클릭하면 새 탭에서 위젯을 실행할 수 있습니다.
+
+#### 와이어 프레임
+
+![my_page](assets/images/my_page.png)
+
+#### [결과물 확인](https://near.org/idknwhoru.near/widget/collegium.bos.wk3.MyProfilePage)
